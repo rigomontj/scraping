@@ -1,4 +1,4 @@
-    # -cryptoscrap.rb- #
+   # -cryptoscrap.rb- #
 Affiche le prix des cryptomonnaies, les refresh tous les 'n' secondes
    
    # -mairies.rb- #
